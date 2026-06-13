@@ -5,7 +5,7 @@ This workspace contains Jupyter notebooks and lab exercises for ITAI 1371.
 ## Project structure
 
 - module-2/ — Module 2 lab: Module_02_Lab_Exercise_1.ipynb
-- module-3/ — Module 3 lab: Module_03_Lab_Exercise-1.ipynb
+- module-3/ — Module 3 lab: L03_MelanieVillela_ITAI1371.ipynb
 
 ## How to use
 
