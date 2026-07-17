@@ -12,6 +12,7 @@ This workspace contains the Jupyter notebooks and lab materials for ITAI 1371.
 - `module-7/` — Module 7 lab: `L07_MelanieVillela_ITAI1371.ipynb`
 - `module-8/` — Module 8 lab: `L08_MelanieVillela_ITAI1371.ipynb`
 - `module-9/` — Module 9 lab: `L09_MelanieVillela_ITAI1371.ipynb`
+- `module-10/` — Module 10 lab: `L10_MelanieVillela_ITAI1371.ipynb`
 
 ## How to use
 
