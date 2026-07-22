@@ -16,3 +16,7 @@ This folder contains the Module 9 lab notebook for ITAI 1371, covering ensemble 
 
 - Save your changes to the notebook as you work.
 - Follow any course-specific submission or output policies for notebook files.
+
+## Summary
+
+In this module I work with ensemble methods. I compare a single Decision Tree to a Random Forest on the Iris dataset, inspect feature importances, and explain why combining models into a "committee" often improves accuracy and stability.

@@ -16,3 +16,7 @@ This folder contains the Module 5 lab notebook for ITAI 1371.
 
 - Save your changes to the notebook as you work.
 - Follow any course-specific submission or output policies for notebook files.
+
+## Summary
+
+In this module I focus on practical data preparation using the Titanic dataset. I practice median imputation for missing values, one-hot encoding for categorical variables, and feature scaling. The notebook shows why each preprocessing step matters and how it affects downstream models.

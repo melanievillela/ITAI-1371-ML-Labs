@@ -59,3 +59,7 @@ Model selection → Cross-validation → Hyperparameter tuning → Final evaluat
 - Better generalization to new data
 - More robust model comparisons
 - Clearer understanding of model behavior
+
+## Summary
+
+In this module I perform Exploratory Data Analysis on the Titanic dataset to find patterns and build clear visualizations. I learn to spot missing values, outliers, and strong relationships (like class and gender effects), which guide my preprocessing and modeling decisions. The emphasis is on turning plots into actionable insights.

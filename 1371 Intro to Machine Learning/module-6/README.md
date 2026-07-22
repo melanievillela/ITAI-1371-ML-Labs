@@ -16,3 +16,7 @@ This folder contains the Module 6 lab notebook for ITAI 1371.
 
 - Save your changes to the notebook as you work.
 - Follow any course-specific submission or output policies for notebook files.
+
+## Summary
+
+In this module I practice both regression and classification workflows (including Titanic survival prediction and fare regression). I learn evaluation metrics and model interpretation, and I see why we use `mean_squared_error` for regression and `accuracy_score` for classification.

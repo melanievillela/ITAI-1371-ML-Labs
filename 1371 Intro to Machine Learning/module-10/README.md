@@ -16,3 +16,7 @@ This folder contains the Module 10 lab notebook for ITAI 1371, covering unsuperv
 
 - Save your changes to the notebook as you work.
 - Follow any course-specific submission or output policies for notebook files.
+
+## Summary
+
+In this module I explore unsupervised learning techniques: K‑Means clustering (including the elbow method for selecting `k`) and PCA for dimensionality reduction and visualization. I practice segmenting data and interpreting principal components.

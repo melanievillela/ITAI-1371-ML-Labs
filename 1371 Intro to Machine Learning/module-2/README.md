@@ -71,3 +71,7 @@ Using the Iris dataset, you'll:
 | **Matplotlib** | Creating publication-quality visualizations |
 | **Scikit-learn** | Classical machine learning algorithms |
 | **GitHub** | Version control and project management |
+
+## Summary
+
+In this module I get hands-on with the core tools used for machine learning: Google Colab, Jupyter, and VS Code, along with essential libraries like `pandas`, `NumPy`, `Matplotlib`, and `scikit-learn`. I work through the Iris dataset to practice loading, exploring, and visualizing data, and I set up a GitHub repo to document the work. After this lab I'm comfortable starting simple ML experiments locally or in the cloud.

@@ -65,3 +65,7 @@ Data Splitting → Model Training → Evaluation → Interpretation
 - **Supervised**: When you have labeled data and need predictions
 - **Unsupervised**: When you want to discover patterns without labels
 - **Reinforcement**: When learning through interaction and feedback is needed
+
+## Summary
+
+In this module I follow the complete ML workflow from data preparation to model interpretation. I build and evaluate classification models on the Wine dataset, practice splitting and validating data, and interpret results with confusion matrices and classification reports. This module helps me choose models and metrics with confidence.
